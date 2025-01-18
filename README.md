@@ -28,9 +28,11 @@
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
 </p>
   
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farahhossam2004&layout=compact&theme=radical)
 
 <!--
 **farahhossam2004/farahhossam2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
