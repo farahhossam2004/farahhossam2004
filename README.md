@@ -35,6 +35,10 @@
 ## 🗂️ Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farahhossam2004&layout=compact&theme=radical)
 
+---
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/farah-hossam-el-den-b29240284)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farah.alden2004@gmail.com)
 <!--
 **farahhossam2004/farahhossam2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
