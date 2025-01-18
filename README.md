@@ -1,6 +1,5 @@
-# Hi 👋, I'm Farah Hossam
-
-"Believe you can, and you're halfway there."
+<h1 align="center">Hi 👋, I'm Farah Hossam</h1>
+<h3 align="center">"Believe you can, and you're halfway there."</h3>
 
 ## 🚀 About Me
 - 👩‍💻 Software Engineering Student
