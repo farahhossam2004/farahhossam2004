@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farah Hossam</h1>
-<h3 align="center">"Believe you can, and you're halfway there."</h3>
+<h3 align="center">"Believer in the power of code to transform ideas into reality.🚀"</h3>
 
 ## 🙋‍♀️ About Me
 - 🎓 **Software Engineering Student** passionate about technology and innovation.
@@ -15,7 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+ alt="HTML" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
 </p>
 
