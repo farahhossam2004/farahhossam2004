@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi 👋, I'm Farah Hossam
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farahhossam2004)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **farahhossam2004/farahhossam2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
