@@ -1,6 +1,9 @@
 # Hi 👋, I'm Farah Hossam
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farahhossam2004)](https://github.com/anuraghazra/github-readme-stats)
+"Believe you can, and you're halfway there."
+
+## 🚀 About Me
+- 👩‍💻 Software Engineering Student
 
 
 <!--
