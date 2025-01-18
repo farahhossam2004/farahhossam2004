@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Farah Hossam</h1>
 <h3 align="center">"Believe you can, and you're halfway there."</h3>
 
-## 🚀 About Me
-- 👩‍💻 Software Engineering Student
+## 🙋‍♀️ About Me
+- 🎓 **Software Engineering Student** passionate about technology and innovation.
+- 💻 **Flutter Developer** building creative and user-friendly mobile apps.
+- 🌟 **Life Motto**: Keep learning, keep growing!
 
 
 <!--
