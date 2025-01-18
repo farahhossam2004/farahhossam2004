@@ -40,7 +40,7 @@
 ## 🗂️ Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farahhossam2004&layout=compact&theme=radical)
 
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo)
 <!--
 **farahhossam2004/farahhossam2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
