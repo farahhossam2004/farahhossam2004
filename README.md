@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
 </p>
 
-## 👩‍💻 Technologies 
+## 👩‍💻 Tools & Technologies 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30"/>
@@ -30,8 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
 </p>
-  
 
+---
+## 🗂️ Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farahhossam2004&layout=compact&theme=radical)
 
 <!--
