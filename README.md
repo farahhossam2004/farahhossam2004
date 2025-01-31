@@ -27,6 +27,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
@@ -44,6 +45,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farahhossam2004&layout=compact&theme=radical)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo)
+
 <!--
 **farahhossam2004/farahhossam2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
